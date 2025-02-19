@@ -21,7 +21,7 @@
 }
 .btn.disabled{
      cursor: default;
- }
+}
 
 .btn:hover:not(:disabled),
 .btn:focus:not(:disabled){
